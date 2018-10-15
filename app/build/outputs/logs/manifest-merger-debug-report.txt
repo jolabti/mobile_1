@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/86f4eb26c6e44688e37bc81b98a34000/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/aa338c1ea3ab6d7b1c3e642327f130be/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fcaed1a2d114222a4749e7e3dc1edc50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f26d36a2149be08d030c56194cb31339/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e8cbbfcf5e735610cfb54e446895672a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fe8746a72bfe9912b283f8ccf0a8fdb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/79866915e286f49f74c1ed821a444427/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/loader-28.0.0.aar/6326546cae6d686be55b71c6574e082a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3c0751c1fa35a1f2099240855d7ae55a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/64de6d6bc4110dbe4eefb83e6984a70c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2a96eae910ca7397bb0cadb1a9c1ee49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/75698c386436a7e770fafff6434a5d3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/customview-28.0.0.aar/172974ba4f03708fc6413042625d6816/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0fdbe9989ce11fdc5dfc41a0f4963e48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/77683930cf285159390119e077a35e84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6d2c327611c029fb433741252a3d8209/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/661ee119d6280879dc4f3f8da18381cf/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4caa7d008c2cd4d2a194afc5649c91c3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7fd7e3ccaaf193614446797de8fd04f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a4e8fd0e5de411d6e4d7ec5b41c0ae82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5520986522e4b2ae2ea066c3e7ab7c2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/print-28.0.0.aar/eed78b11bd5a4211525d7731357b7c98/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8f2b4e28dbb2ca88d3f694b2a0a716f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c1f85fa835c8827673d437a77daac6e0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4ea8cf9364d68896ae9da9699f8fb0f3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/runtime-1.1.1.aar/16076b8ffa40a77cea206bd76349a66a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8742ba7fc094e6d5892123e236d37b8a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/aa338c1ea3ab6d7b1c3e642327f130be/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/aa338c1ea3ab6d7b1c3e642327f130be/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6d2c327611c029fb433741252a3d8209/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6d2c327611c029fb433741252a3d8209/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/661ee119d6280879dc4f3f8da18381cf/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/661ee119d6280879dc4f3f8da18381cf/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6d2c327611c029fb433741252a3d8209/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:11:9-40
+activity#xyz.jncode.pertemuan1.MainActivity
+ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:12:9-14:20
+	android:name
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:12:19-47
+activity#xyz.jncode.pertemuan1.BelajarLinear
+ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:15:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/86f4eb26c6e44688e37bc81b98a34000/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/86f4eb26c6e44688e37bc81b98a34000/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/aa338c1ea3ab6d7b1c3e642327f130be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/aa338c1ea3ab6d7b1c3e642327f130be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fcaed1a2d114222a4749e7e3dc1edc50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/fcaed1a2d114222a4749e7e3dc1edc50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f26d36a2149be08d030c56194cb31339/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/f26d36a2149be08d030c56194cb31339/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e8cbbfcf5e735610cfb54e446895672a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e8cbbfcf5e735610cfb54e446895672a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fe8746a72bfe9912b283f8ccf0a8fdb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fe8746a72bfe9912b283f8ccf0a8fdb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/79866915e286f49f74c1ed821a444427/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/79866915e286f49f74c1ed821a444427/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/loader-28.0.0.aar/6326546cae6d686be55b71c6574e082a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/loader-28.0.0.aar/6326546cae6d686be55b71c6574e082a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3c0751c1fa35a1f2099240855d7ae55a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/3c0751c1fa35a1f2099240855d7ae55a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/64de6d6bc4110dbe4eefb83e6984a70c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/64de6d6bc4110dbe4eefb83e6984a70c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2a96eae910ca7397bb0cadb1a9c1ee49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2a96eae910ca7397bb0cadb1a9c1ee49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/75698c386436a7e770fafff6434a5d3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/75698c386436a7e770fafff6434a5d3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/customview-28.0.0.aar/172974ba4f03708fc6413042625d6816/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/customview-28.0.0.aar/172974ba4f03708fc6413042625d6816/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0fdbe9989ce11fdc5dfc41a0f4963e48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0fdbe9989ce11fdc5dfc41a0f4963e48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/77683930cf285159390119e077a35e84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/77683930cf285159390119e077a35e84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6d2c327611c029fb433741252a3d8209/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6d2c327611c029fb433741252a3d8209/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/661ee119d6280879dc4f3f8da18381cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/661ee119d6280879dc4f3f8da18381cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4caa7d008c2cd4d2a194afc5649c91c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4caa7d008c2cd4d2a194afc5649c91c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7fd7e3ccaaf193614446797de8fd04f1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7fd7e3ccaaf193614446797de8fd04f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a4e8fd0e5de411d6e4d7ec5b41c0ae82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a4e8fd0e5de411d6e4d7ec5b41c0ae82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5520986522e4b2ae2ea066c3e7ab7c2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5520986522e4b2ae2ea066c3e7ab7c2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/print-28.0.0.aar/eed78b11bd5a4211525d7731357b7c98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/print-28.0.0.aar/eed78b11bd5a4211525d7731357b7c98/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8f2b4e28dbb2ca88d3f694b2a0a716f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8f2b4e28dbb2ca88d3f694b2a0a716f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c1f85fa835c8827673d437a77daac6e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c1f85fa835c8827673d437a77daac6e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4ea8cf9364d68896ae9da9699f8fb0f3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4ea8cf9364d68896ae9da9699f8fb0f3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/runtime-1.1.1.aar/16076b8ffa40a77cea206bd76349a66a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/runtime-1.1.1.aar/16076b8ffa40a77cea206bd76349a66a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8742ba7fc094e6d5892123e236d37b8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/johannainggolan/Downloads/gradle-3.5/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8742ba7fc094e6d5892123e236d37b8a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/johannainggolan/Documents/flutter_app/Pertemuan1/app/src/main/AndroidManifest.xml
